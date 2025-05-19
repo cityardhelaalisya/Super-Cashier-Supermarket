@@ -29,7 +29,7 @@ print("=====TEST CASE 1=====")
 print(f"Item yang dibeli adalah: {add_item2}")
 
 Outputnya menampilkan daftar item yang masuk ke data_keranjang:
-![Test Case 1](Super-Cashier/Supermarket/github testcase 1.png)
+![satu](https://github.com/cityardhelaalisya/Super-Cashier-Supermarket/blob/main/github%20testcase%201.png)
 
 2. Customer ingin menghapus salah satu item dengan Method delete_item() karena terjadi kesalahan. Item yang ingin dihapus adalah Pasta Gigi
 Code:
