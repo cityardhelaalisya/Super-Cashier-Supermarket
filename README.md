@@ -29,7 +29,7 @@ print("=====TEST CASE 1=====")
 print(f"Item yang dibeli adalah: {add_item2}")
 
 Outputnya menampilkan daftar item yang masuk ke data_keranjang:
-![satu](https://github.com/cityardhelaalisya/Super-Cashier-Supermarket/blob/main/github%20testcase%201.png)
+![Test Case 1](https://github.com/cityardhelaalisya/Super-Cashier-Supermarket/blob/main/github%20testcase%201.png)
 
 2. Customer ingin menghapus salah satu item dengan Method delete_item() karena terjadi kesalahan. Item yang ingin dihapus adalah Pasta Gigi
 Code:
@@ -38,7 +38,7 @@ print("=====TEST CASE 2=====")
 print(f"{delete_item_user}")
 
 Ouput dari code di atas akan menghapus salah satu item:
-![Test Case 2](Super-Cashier/Supermarket/github testcase 2.png)
+![Test Case 2](https://github.com/cityardhelaalisya/Super-Cashier-Supermarket/blob/main/github%20testcase%202.png)
 
 3. Ternyata setelah dipikir-pikir customer salah memasukkan item yang ingin dibelanjakan!
    Daripada menghapusnya satu-satu, maka customer cukup menggunakan reset_transaction() untuk menghapus semua item yang sudah ditambahkan
@@ -48,7 +48,8 @@ print("=====TEST CASE 3=====")
 print(f"{reset_item_user}")
 
 Dari code di atas menghasilkan ouput:
-![Test Case 3](Super-Cashier/Supermarket/github testcase 3.png)
+![Test Case 3](https://github.com/cityardhelaalisya/Super-Cashier-Supermarket/blob/main/github%20testcase%203.png)
+
 
 4. Setelah Customer selesai berbelanja, akan menghitung total belanja yang harus dibayarkan menggunakan method total_price().
    Sebelum mengeluarkan ouput total belanja akan menampilkan item-item yang dibeli.
@@ -62,7 +63,7 @@ print(f"Item yang dibeli adalah: {belanja_user}")
 print(trnsct_123.total_price())
 
 Dari code di atas menghasilkan output:
-![Test Case 4](Super-Cashier/Supermarket/github testcase 4.png)
+![Test Case 4](https://github.com/cityardhelaalisya/Super-Cashier-Supermarket/blob/main/github%20testcase%204.png)
 
 # Conclusion
 Dari pembuatan program Super-Cashier di supermarket Andi, seluruh fitur yang dibutuhkan dapat berjalan dengan baik. 
