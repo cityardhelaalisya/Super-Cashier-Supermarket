@@ -16,6 +16,7 @@ Terdapat beberapa Requirements yang dimasukkan di module Transanction, yaitu: <b
 7. total_price(): Method untuk menghitung total harga seluruh item dan memberikan diskon bagi customer yang memenuhi syarat
 
 # Flowchart Program Super-Cashier <br>
+![Flowchart Program Super-Cashier](https://github.com/cityardhelaalisya/Super-Cashier-Supermarket/blob/main/flowchart%20super%20cashier.drawio.png)
 
 # Hasil Test Case <br>
 1. Customer ingin menambahkan dua item baru menggunakan method add_item(). Item yang ditambahkan adalah sebagai berikut.  
